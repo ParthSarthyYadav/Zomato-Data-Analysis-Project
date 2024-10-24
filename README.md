@@ -39,7 +39,3 @@ The dataset used in this project is a publicly available Zomato dataset, which i
 ## Conclusion
 This project provides valuable insights into customer preferences and behavior patterns that can assist Zomato in optimizing its offerings and marketing strategies. By analyzing market trends, the analysis offers actionable recommendations for targeted promotions and customer engagement.
 
-## How to Run the Code
-1. Clone this repository:
-   ```bash
-   git clone https://github.com/yourusername/zomato-data-analysis.git
